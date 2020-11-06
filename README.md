@@ -1,3 +1,3 @@
 # hw_project
 
-https://onlyonejoar.github.io/hw_project/
+https://coderjoar.github.io/hw_project/
